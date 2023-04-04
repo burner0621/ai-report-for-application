@@ -1,0 +1,820 @@
+{
+    "Personal Information": {
+        "Name": "Guz, Tito",
+        "Maiden": "",
+        "Address": "5126 Rowen Oak Rd",
+        "City": "Collierville",
+        "State": "TN",
+        "Zip": "38017",
+        "Passport Number": "43458",
+        "Issued Date": "10/7/2017",
+        "Expired Date": "10/9/2025",
+        "Country of Issuance": "United States of America",
+        "Country of Legal Residence": "United States of America",
+        "Aliases": "",
+        "Home Phone": "662-435-0763",
+        "Email Address": "alex22gutierrez@gmail.com",
+        "Date of Availability": "2 weeks notice"
+    },
+    "Address History": {
+        "Permanent": {
+            "Address": "234 Lake Dr",
+            "City": "Madison",
+            "State": "MS",
+            "Zip": "39110"
+        },
+        "History": [
+            {
+                "From": "10/26/2016",
+                "To": "Present",
+                "Address": "5126 Rowen Oak Rd",
+                "City": "Collierville",
+                "State": "TN",
+                "Zip": "38017"
+            },
+            {
+                "From": "5/1/2007",
+                "To": "2/13/2012",
+                "Address": "601 Clearwood Cove",
+                "City": "Madison",
+                "State": "MS",
+                "Zip": "39110"
+            },
+            {
+                "From": "8/14/2006",
+                "To": "5/1/2007",
+                "Address": "7201 A Atlanta Dr",
+                "City": "Columbus ",
+                "State": "MS",
+                "Zip": "39705"
+            },
+            {
+                "From": "1/15/2003",
+                "To": "8/14/2006",
+                "Address": "740 N Sans Souci",
+                "City": "Deland",
+                "State": "FL",
+                "Zip": "32720"
+            }
+        ]
+    },
+    "Education History": {
+        "Summary": {
+            "YearOfCollege": "4",
+            "Degree": "Bachelor",
+            "FluentInEnglish": "Yes",
+            "OtherLanguages": "Spanish"
+        },
+        "History": [
+            {
+                "type": "Professional Development:",
+                "From": "5/2/2016",
+                "To": "7/14/2016",
+                "School": "Federal Express Airlines",
+                "Address": "3131 Democrat Road",
+                "City": "Memphis",
+                "State": "TN ",
+                "Program": "MD-11 Initial Type Rating",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "2/14/2014",
+                "To": "5/10/2014",
+                "School": "Atlas Airline World Wide",
+                "Address": "5600 NW 36th St",
+                "City": "Miami",
+                "State": "FL ",
+                "Program": "Initial 747-400 Type Rating",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "2/6/2014",
+                "To": "7/25/2014",
+                "School": "Air University",
+                "Address": "55 LeMay Plaza South",
+                "City": "Maxwell AFB",
+                "State": "AL ",
+                "Program": "Squadron Officer School",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "11/6/2013",
+                "To": "11/6/2013",
+                "School": "Deland Aviation",
+                "Address": "1210 Flightline Blvd",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 61: ATP Multi-Engine",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "3/14/2011",
+                "To": "5/21/2011",
+                "School": "58th Airlift Squadron",
+                "Address": "510 N. 6th Street",
+                "City": "Altus",
+                "State": "OK ",
+                "Program": "C-17 Aircraft Commander Upgrade",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "12/15/2008",
+                "To": "5/12/2008",
+                "School": "58th Airlift Squadron",
+                "Address": "510 N. 6th Street",
+                "City": "Altus",
+                "State": "OK ",
+                "Program": "C17 Pilot Initial Qualification",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "12/16/2006",
+                "To": "8/16/2007",
+                "School": "48th Flight Training Squadron",
+                "Address": "108 Simler Blvd",
+                "City": "Columbus",
+                "State": "MS ",
+                "Program": "T-1/BE400, Undergraduate Pilot Training",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "8/16/2006",
+                "To": "12/14/2006",
+                "School": "41st Flying Training Squadron",
+                "Address": "108 Simler Blvd",
+                "City": "Columbus",
+                "State": "MS ",
+                "Program": "T-37 Undergraduate Pilot Training",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "5/11/2006",
+                "To": "6/23/2006",
+                "School": "Academy of Military Science",
+                "Address": "2420 Hobbs Rd",
+                "City": "Alcoa",
+                "State": "TN ",
+                "Program": "Officer Training Course",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "4/14/2004",
+                "To": "5/10/2004",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Bld",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 141: Certified Flight Instructor",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "2/25/2004",
+                "To": "4/6/2004",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 141: Multi-Engine Instructor",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "1/20/2004",
+                "To": "2/20/2004",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 141: Certified Flight Instructor Instrument",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "12/11/2003",
+                "To": "1/6/2004",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 141: Commercial Multi-Engine Rating",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "8/29/2003",
+                "To": "12/9/2003",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland",
+                "State": "FL ",
+                "Program": "Part 141: Commercial Single Engine Rating",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "6/24/2003",
+                "To": "8/25/2003",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland ",
+                "State": "FL ",
+                "Program": "Part 141: Instrument Rating",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "University - U.S. Accredited:",
+                "From": "5/1/2003",
+                "To": "5/1/2005",
+                "School": "Utah Valley University",
+                "Address": "800 W University Parkway",
+                "City": "Orem",
+                "State": "UT ",
+                "Program": "Aviation Science",
+                "Graduate": "Yes",
+                "GPA": "3.67"
+            },
+            {
+                "type": "Professional Development:",
+                "From": "3/10/2003",
+                "To": "6/24/2003",
+                "School": "Regional Airline Academy",
+                "Address": "1200 Flightline Blvd",
+                "City": "Deland ",
+                "State": "FL ",
+                "Program": "Part 141: Private Pilot Certificate",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "University - U.S. Accredited:",
+                "From": "1/1/2002",
+                "To": "4/1/2003",
+                "School": "Belhaven University",
+                "Address": "1500 Peachtree St",
+                "City": "Jackson",
+                "State": "MS ",
+                "Program": "Associates Degree",
+                "Graduate": "Yes",
+                "GPA": "3.45"
+            },
+            {
+                "type": "U.S. Military Institution:",
+                "From": "8/10/2000",
+                "To": "10/18/2000",
+                "School": "1st Battalion 28th Infantry Regiment",
+                "Address": "Strom Thurman Blvd",
+                "City": "Columbia",
+                "State": "SC ",
+                "Program": "Army Basic Training",
+                "Graduate": "Yes",
+                "GPA": "N/A"
+            },
+            {
+                "type": "University - U.S. Accredited:",
+                "From": "8/1/1998",
+                "To": "5/15/2000",
+                "School": "University of Central Florida",
+                "Address": "4000 Central Florida Blvd",
+                "City": "Orlando",
+                "State": "FL ",
+                "Program": "Management/Business",
+                "Graduate": "No",
+                "GPA": "3.4"
+            },
+            {
+                "type": "High School - U.S. :",
+                "From": "8/12/1995",
+                "To": "6/5/1998",
+                "School": "Balboa High School",
+                "Address": "Balboa St",
+                "City": "Panama",
+                "State": "",
+                "Program": "High School Diploma",
+                "Graduate": "Yes",
+                "GPA": "3.2"
+            }
+        ],
+        "Achievements": [
+            "Graduated Cum Laude Bachelor of ScienceUniversity of Central Florida- Dean's List- 1998, 1999,2000Belhaven College Dean's List- All SemestersUtah Valley University- Dean's List All SemestersWorked Full time while enrolled as Full-time Student\"Top Stick\" Award Contact Phase Undergraduate Pilot Training"
+        ]
+    },
+    "Drivers Record": {
+        "Summary": {
+            "License": "G362000800850",
+            "State": "FL",
+            "Class": "E",
+            "Expires": "3/5/2020"
+        },
+        "Violations": [
+            {
+                "Violation": "Moving Violation",
+                "Date": "5/14/2002",
+                "City": "Orlando ",
+                "County": "Orange",
+                "State": "FL ",
+                "Disposition": "Estimated dates; Attended Traffic Ticket School"
+            },
+            {
+                "Violation": "Speeding",
+                "Date": "1/1/1900",
+                "City": "Unkown",
+                "County": "unknown",
+                "State": "TX ",
+                "Disposition": "Paid Fine"
+            }
+        ]
+    },
+    "Criminal Record": {
+        "LegalToWork": "Yes",
+        "AbleToRelocate": "Yes",
+        "ContactPresent": "Yes",
+        "ContactPrevious": "Yes",
+        "EverDischarged": "No",
+        "Details": "N/A "
+    },
+    "Employment Present": {
+        "From": "2/3/2014",
+        "To": "Present",
+        "Company": "ABC Airline",
+        "Part121": "Yes",
+        "Part135": "No",
+        "Address": "20 West Ave",
+        "City": "Purchase",
+        "State": "NY",
+        "Zip": "10577-2543",
+        "Position": "First Officer",
+        "Duties": "Duties:",
+        "AC Flown": "A/C Flown:",
+        "Hours per Month": "Hours per Month:",
+        "Supervisor": "Supervisor:",
+        "Phone": "Phone:",
+        "Reason for Leaving": "Reason for Leaving:"
+    },
+    "Employment History": [
+        {
+            "From": "1/1/2013",
+            "To": "Present",
+            "Company": "AG Ventures LLC",
+            "Part121": "No",
+            "Part135": "No",
+            "Address": "161 Lake Shore dr",
+            "City": "Madison",
+            "State": "MS ",
+            "Zip": "39110",
+            "Position": "Owner",
+            "Duties": "Ready Set Takeoff",
+            "ACFlown": "N/A",
+            "HoursPerMonth": "N/A",
+            "Supervisor": "N/A",
+            "Phone": "6624350764",
+            "ReasonForLeaving": "Currently in operation"
+        },
+        {
+            "From": "8/1/2006",
+            "To": "Present",
+            "Company": "Mississippi Air National Guard",
+            "Part121": "No",
+            "Part135": "No",
+            "Address": "141 Military Dr",
+            "City": "Jackson",
+            "State": "MS ",
+            "Zip": "39232",
+            "Position": "Aircraft Commander, Wing Plans Officer, Foreign\n                                        Liason Officer",
+            "Duties": "Highly experienced combat aviator, 1141 combat\n                                        hours with multiple deployments in support of OIE/OEF/Operation New\n                                        Dawn.Responsible for the development of base wide contingency plans, emergency\n                                        response checklist and the implementation of base exercises and evaluations\n                                        Foreign Liaison O",
+            "ACFlown": "C17",
+            "HoursPerMonth": "80",
+            "Supervisor": "LTC John Wilkinson",
+            "Phone": "(601)405-8141",
+            "ReasonForLeaving": "Actively serving "
+        },
+        {
+            "From": "1/1/2003",
+            "To": "6/1/2006",
+            "Company": "Regional Airline Academy",
+            "Part121": "No",
+            "Part135": "No",
+            "Address": "1200 Flight Line Blvd",
+            "City": "Deland ",
+            "State": "FL ",
+            "Zip": "32720",
+            "Position": "Flight Instructor",
+            "Duties": " Provided flight, ground and simulator instruction\n                                        to various students ranging from Private Pilot Certificate to Commercial Multi\n                                        Instrument. Worked closely with other instructors to conduct stage checks and\n                                        ensure student progression. Responsible for ensuring safety by performing rental\n                                        check outs. Acted as PIC during discovery flights. Assisted in curriculum\n                                        development and the implementation of safety programs. ",
+            "ACFlown": "PA28,PA34, PA28RT",
+            "HoursPerMonth": "80",
+            "Supervisor": "Dave Hensley",
+            "Phone": "3867342201",
+            "ReasonForLeaving": "To attend USAF pilot training"
+        },
+        {
+            "From": "3/23/2000",
+            "To": "8/1/2006",
+            "Company": "U.S Army Reserve",
+            "Part121": "No",
+            "Part135": "No",
+            "Address": "1420 Beach Dr",
+            "City": "St Petersburg ",
+            "State": "FL ",
+            "Zip": "33701",
+            "Position": "Hospital Food Service Specialist",
+            "Duties": "Non-commissioned in charge of the nutrition of 25\n                                        soldiers. Responsible training, developing future leaders. Managed nutrition\n                                        care operations and deployment training. ",
+            "ACFlown": "N/A",
+            "HoursPerMonth": "N/A",
+            "Supervisor": "MSGT Wright",
+            "Phone": "727-893-5715",
+            "ReasonForLeaving": "Accepted a commission with the MS. Air National\n                                        Guard"
+        }
+    ],
+    "UnemploymentFurlough": {
+        "History": [],
+        "Details": "N/A"
+    },
+    "Employment Misc": {
+        "Professional Memberships": "OBAPWAI",
+        "Achievements and Awards": "Air Medal (6)Joint Task Achievement MedalAwarded Top Stick Award Undergraduate Pilot TrainingSelected amongst my peers to be a stage check pilot at the Regional Airline Academy",
+        "Volunteer Charity Work": "Habitat for Humanity- 2001, 2005"
+    },
+    "Pilot Experience General": {
+        "Chief Pilot": "No",
+        "Director of Operations": "No",
+        "Director of Safety": "No",
+        "Check Airman": "No",
+        "FAA Examiner": "No",
+        "FAA Approved Program Examiner": "No"
+    },
+    "Pilot Certificates Ratings": {
+        "Airplane MultiEngine Land (AMEL)": "ATP",
+        "Cert. Number": "2772971",
+        "Issue Date": "11/6/2012",
+        "Flight Engineer Cert. Number": "N/A",
+        "Flight Engineer Issue Date": "",
+        "Flight Engineer FE Turbojet": "No",
+        "Flight Engineer FE Turboprop": "No",
+        "Flight Engineer FE Reciprocating": "No",
+        "Airplane SEL": "Yes",
+        "Airplane MEL": "Yes",
+        "Airplane SES": "No",
+        "Airplane MES": "No",
+        "Rotor Helicopter": "No",
+        "Rotor Gyroplane": "No",
+        "Airship": "No",
+        "Balloon": "No",
+        "Powered Lift": "No",
+        "Glider": "No",
+        "Turbojet Typed": "Yes",
+        "B-737 Typed": "No",
+        "Large Aircraft Typed": "Yes",
+        "Instrument Airplane": "Yes",
+        "Instrument Helicopter": "No",
+        "Instrument Powered Lift": "No"
+    },
+    "Instructor Certificates Ratings": {
+        "Flight Instructor": "2772971",
+        "Flight Instructor Issue Date": "4/26/2003",
+        "Ground School": "N/A",
+        "Ground School Issue Date": "",
+        "Airplane Single Engine": "Yes",
+        "Airplane Multi Engine": "Yes",
+        "Rotor Helicopter": "No",
+        "Rotor Gyroplane": "No",
+        "Glider": "No",
+        "Powered Lift": "No",
+        "Instrument Airplane": "Yes",
+        "Instrument Helicopter": "No",
+        "Instrument Powered Lift": "No",
+        "Ground Instructor - Basic": "No",
+        "Ground Instructor - Advanced": "No",
+        "Ground Instructor - Instrument": "No"
+    },
+    "FAA Written Tests": {
+        "ATPDate": "10/31/2012",
+        "ATPCurrent": "Yes*",
+        "FETurbojetDate": "",
+        "TurbojetCurrent": "No",
+        "FETurbopropDate": "",
+        "TurbopropCurrent": "No",
+        "FERecipDate": "",
+        "RecipCurrent": "No"
+    },
+    "FAA Medicals": {
+        "Class": "First",
+        "Issued": "3/15/2019",
+        "Restrictions": "None"
+    },
+    "Misc Certificates": {
+        "Dispatcher": "N/A",
+        "DispatcherIssued": "",
+        "Airframe&Powerplant": "N/A",
+        "APIssued": "",
+        "FCCPermit": "Yes"
+    },
+    "FAA Actions": {
+        "HadAccident": "No",
+        "HadIncident": "No",
+        "BeenVialated": "No",
+        "CRL": "No",
+        "AAT": "No",
+        "PFP": "No",
+        "Details": "N/A"
+    },
+    "Aircraft Flown": [
+        {
+            "Model": "C-17",
+            "PowerClass": "TurbineMEL",
+            "Cat": "Military - Transport",
+            "PIC": "2617",
+            "Instr": "0",
+            "SIC": "2096",
+            "Dual": "0",
+            "Other": "0",
+            "FE": "0",
+            "Total": "4713",
+            "Typed": "No",
+            "LastFlown": "7/2019"
+        },
+        {
+            "Model": "747",
+            "PowerClass": "TurbineMEL",
+            "Cat": "Transport",
+            "PIC": "0",
+            "Instr": "0",
+            "SIC": "836",
+            "Dual": "0",
+            "Other": "0",
+            "FE": "0",
+            "Total": "836",
+            "Typed": "Yes",
+            "LastFlown": "3/2016"
+        },
+        {
+            "Model": "PA-28",
+            "PowerClass": "PistonSEL",
+            "Cat": "Normal",
+            "PIC": "679",
+            "Instr": "487",
+            "SIC": "0",
+            "Dual": "65",
+            "Other": "0",
+            "FE": "0",
+            "Total": "729",
+            "Typed": "No",
+            "LastFlown": "11/2006"
+        },
+        {
+            "Model": "MD-11",
+            "PowerClass": "TurbineMEL",
+            "Cat": "Transport",
+            "PIC": "0",
+            "Instr": "0",
+            "SIC": "178",
+            "Dual": "0",
+            "Other": "0",
+            "FE": "0",
+            "Total": "178",
+            "Typed": "Yes",
+            "LastFlown": "4/2017"
+        },
+        {
+            "Model": "Be-400",
+            "PowerClass": "TurbineSingle Engine Sea",
+            "Cat": "Military - Trainer",
+            "PIC": "0",
+            "Instr": "0",
+            "SIC": "0",
+            "Dual": "121",
+            "Other": "",
+            "FE": "",
+            "Total": "121",
+            "Typed": "Yes",
+            "LastFlown": "7/2007"
+        },
+        {
+            "Model": "T-37",
+            "PowerClass": "TurbineMEL",
+            "Cat": "Military - Trainer",
+            "PIC": "0",
+            "Instr": "0",
+            "SIC": "0",
+            "Dual": "120",
+            "Other": "",
+            "FE": "",
+            "Total": "120",
+            "Typed": "No",
+            "LastFlown": "9/2006"
+        },
+        {
+            "Model": "PA-34",
+            "PowerClass": "PistonMEL",
+            "Cat": "Normal",
+            "PIC": "61",
+            "Instr": "50",
+            "SIC": "0",
+            "Dual": "28",
+            "Other": "0",
+            "FE": "0",
+            "Total": "88",
+            "Typed": "No",
+            "LastFlown": "11/2006"
+        },
+        {
+            "Model": "PA28R",
+            "PowerClass": "PistonSEL",
+            "Cat": "Normal",
+            "PIC": "82",
+            "Instr": "38",
+            "SIC": "0",
+            "Dual": "20",
+            "Other": "0",
+            "FE": "0",
+            "Total": "82",
+            "Typed": "No",
+            "LastFlown": "11/2006"
+        },
+        {
+            "Model": "PA23-250",
+            "PowerClass": "PistonSEL",
+            "Cat": "Normal",
+            "PIC": "15",
+            "Instr": "0",
+            "SIC": "0",
+            "Dual": "0",
+            "Other": "0",
+            "FE": "0",
+            "Total": "15",
+            "Typed": "No",
+            "LastFlown": "11/2006"
+        },
+        {
+            "Model": "C152",
+            "PowerClass": "PistonSEL",
+            "Cat": "Normal",
+            "PIC": "4",
+            "Instr": "0",
+            "SIC": "0",
+            "Dual": "0",
+            "Other": "0",
+            "FE": "0",
+            "Total": "4",
+            "Typed": "No",
+            "LastFlown": "7/2006"
+        }
+    ],
+    "Flight Time By Conditions": {
+        "FlightCondition": {
+            "ANight": "1149",
+            "AActualInstrument": "406",
+            "ASimInstrument": "78",
+            "ACrossCountry": "3500",
+            "RNight": "0",
+            "RActualInstrument": "0",
+            "RSimInstrument": "0",
+            "RCrossCountry": "0"
+        },
+        "Simulator": {
+            "PIC": "350",
+            "Instructor": "0",
+            "SIC": "0",
+            "Dual": "30"
+        },
+        "InstrumentApproaches": {
+            "Within6": "10",
+            "Within12": "35"
+        },
+        "MilitarySorties": {
+            "PIC": "638",
+            "Instructor": "0",
+            "SIC": "426",
+            "Dual": "90",
+            "Turbine": "1064",
+            "MultiEngine": "1064"
+        }
+    },
+    "Addendum": [
+        {
+            "question": "Have you ever been interviewed or tested with Delta or Northwest?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever been employed by Delta or Northwest?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever been convicted of any felony, misdemeanor, infraction, offense, or other violation of any law - that you have not already listed in this application?",
+            "answer": "No"
+        },
+        {
+            "question": "How much flight time have you logged in the past 12 months (whole hours only, no text)?",
+            "answer": "356"
+        },
+        {
+            "question": "Do you have any active warning letters, fines, or certificate suspensions on record with the FAA? Exclude all inactive warning letters and events accepted into ASAP or NASA reporting processes.",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever had, or been involved in, any aircraft accidents, mishaps, or serious incidents, either reported or unreported, in which pilot performance was a contributing factor - that you have not already listed in this application?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever received any warning letters or letters of discipline from your current or previous employers?",
+            "answer": "No"
+        },
+        {
+            "question": "Is there any incident, accident, or violation that is currently pending an FAA or Military decision?",
+            "answer": "No"
+        },
+        {
+            "question": "Were you ever a member of a crew that was under investigation or received a violation by the FAA or Military?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever been the subject of an evaluation board or removed from flying status - civilian or military?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever failed ANY checkrides or received an unsat on ANY phase/stage check, proficiency check, or line check- civilian or military?",
+            "answer": "No"
+        },
+        {
+            "question": "Have you ever lost your flight rating for any reason - civilian or military?",
+            "answer": "No"
+        },
+        {
+            "question": "In the past two years, have you been employed by a company or applied to a company with whom you were subject to DOT required drug and alcohol testing?",
+            "answer": "No"
+        },
+        {
+            "question": "In the past two years, have you tested positive or refused to test on any DOT Pre-Employment drug screen for any prospective employer with which you applied but did not obtain employment?",
+            "answer": "No"
+        },
+        {
+            "question": "Do you have experience as a pilot with a certificated air carrier (i.e., Part 121 experience in the U.S. or equivalent at an international commercial airline)?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Have you ever resigned from a job prior to completing training or in lieu of termination?",
+            "answer": "No"
+        },
+        {
+            "question": "I acknowledge that I have read this requirement.",
+            "answer": "Yes"
+        },
+        {
+            "question": "Where permitted by law, if you receive a conditional job offer of employment, will you have been or are you willing to be vaccinated against COVID-19 subject to an approved accommodation?",
+            "answer": "Yes"
+        }
+    ],
+    "GeneralReferences": [
+        {
+            "Name": "Major Edward MAsh",
+            "Employer": "MS Air National Guard/UPS",
+            "Position": "Instructor Pilot",
+            "From": "5/1/2005",
+            "To": "Present",
+            "PhoneNumber": "601-209-5505",
+            "EmailAddress": "edward@yahoo.com"
+        },
+        {
+            "Name": "LTC Jame Evans",
+            "Employer": "MS Air National Guard/Southwest Airlines",
+            "Position": "Instructor Pilot",
+            "From": "5/5/2005",
+            "To": "Present",
+            "PhoneNumber": "6015597796",
+            "EmailAddress": "evansed@aol.com"
+        },
+        {
+            "Name": "Jeff Rutland",
+            "Employer": "Keypointe Church",
+            "Position": "Pastor",
+            "From": "3/10/2008",
+            "To": "Present",
+            "PhoneNumber": "6019547777",
+            "EmailAddress": "rutlandjeff@gmail.com"
+        }
+    ],
+    "Disclosure Answer": "No"
+}

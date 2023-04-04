@@ -1,0 +1,93 @@
+[<tbody>
+<tr>
+<!--<td class="questiontextheader">Airplane<br/>Day</td>-->
+<td class="questiontextheader">Airplane<br/>Night</td>
+<td class="questiontextheader">Airplane<br/>Actual Instrument</td>
+<td class="questiontextheader">Airplane<br/>Sim Instrument</td>
+<td class="questiontextheader">Airplane<br/>Cross Country</td>
+</tr>
+<tr>
+<!--<td style="width:20%;" class="answerboxcenter">4514</td>-->
+<td class="answerboxcenter" style="width:25%;">1149</td>
+<td class="answerboxcenter" style="width:25%;">406</td>
+<td class="answerboxcenter" style="width:25%;">78</td>
+<td class="answerboxcenter" style="width:25%;">3500</td>
+</tr>
+<tr>
+<!--<td class="questiontextheader">Rotor<br/>Day</td>-->
+<td class="questiontextheader">Rotor<br/>Night</td>
+<td class="questiontextheader">Rotor<br/>Actual Instrument</td>
+<td class="questiontextheader">Rotor<br/>Sim Instrument</td>
+<td class="questiontextheader">Rotor<br/>Cross Country</td>
+</tr>
+<tr>
+<!--<td class="answerboxcenter">0</td>-->
+<td class="answerboxcenter">0</td>
+<td class="answerboxcenter">0</td>
+<td class="answerboxcenter">0</td>
+<td class="answerboxcenter">0</td>
+</tr>
+</tbody>, <tbody>
+<tr>
+<td class="questiontextheader">PIC</td>
+<td class="questiontextheader">Instructor</td>
+<td class="questiontextheader">SIC</td>
+<td class="questiontextheader">Dual</td>
+<!--<td class="questiontextheader">FE/Nav</td>-->
+</tr>
+<tr>
+<td class="answerboxcenter" style="width:25%;">350</td>
+<td class="answerboxcenter" style="width:25%;">0</td>
+<td class="answerboxcenter" style="width:25%;">0</td>
+<td class="answerboxcenter" style="width:25%;">30</td>
+<!--<td style="width:20%;" class="answerboxcenter">  varSimNav  </td>-->
+</tr>
+</tbody>, <tbody>
+<tr>
+<td class="questiontextheader">Within 6 Months</td>
+<td class="questiontextheader">Within 12 Months</td>
+<td></td>
+<td></td>
+<!--<td></td>-->
+</tr>
+<tr>
+<td class="answerboxcenter" style="width:25%;">10</td>
+<td class="answerboxcenter" style="width:25%;">35</td>
+<td style="width:25%;"></td>
+<td style="width:25%;"></td>
+<!-- <td style="width:20%;"></td>-->
+</tr>
+</tbody>, <tbody>
+<tr>
+<td class="questiontextheader">PIC</td>
+<td class="questiontextheader">Instructor</td>
+<td class="questiontextheader">SIC</td>
+<td class="questiontextheader">Dual</td>
+<!--<td class="questiontextheader">FE/Nav</td>-->
+</tr>
+<tr>
+<td class="answerboxcenter" style="width:25%;">638</td>
+<td class="answerboxcenter" style="width:25%;">0</td>
+<td class="answerboxcenter" style="width:25%;">426</td>
+<td class="answerboxcenter" style="width:25%;">90</td>
+<!--<td style="width:20%;" class="answerboxcenter">  varMilNav  </td>-->
+</tr>
+<tr>
+<td class="questiontextheader"><br/>Turbine</td>
+<td class="questiontextheader"><br/>Multi Engine</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="answerboxcenter">1064</td>
+<td class="answerboxcenter">1064</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="questiontext" colspan="5">
+</td>
+</tr>
+</tbody>]

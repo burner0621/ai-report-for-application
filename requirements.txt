@@ -1,0 +1,9 @@
+openai
+pyenchant
+zipcodes
+pycountry
+uszipcode 
+geopy
+reportlab
+bs4
+fpdf

@@ -1,0 +1,208 @@
+First Name and Last Name is not correct.
+
+Maiden name is not correct.
+
+5126 Rowen Oak Rd,Collierville,TN 38017
+Address is invalid
+
+43458
+Above passport number is incorret. Please input again.No, that format is not correct for a United States passport number. United States passport numbers have the format of six letters followed by eight numbers, for example: L1234567890.
+
+Permanent address format is incorrect. Please have a look on that and fix if it's possible.
+
+{'From': '8/14/2006', 'To': '5/1/2007', 'Address': '7201 A Atlanta Dr', 'City': 'Columbus ', 'State': 'MS', 'Zip': '39705'}Above City, State and Zips are not matched. Please have a look on them.
+
+There is overlaps or gaps in Address History. Please take a look on it and fix it.If you know only English, Other Langauges field should be set as N/A
+
+{'type': 'Professional Development:', 'From': '5/2/2016', 'To': '7/14/2016', 'School': 'Federal Express Airlines', 'Address': '3131 Democrat Road', 'City': 'Memphis', 'State': 'TN ', 'Program': 'MD-11 Initial Type Rating', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+
+{'type': 'Professional Development:', 'From': '2/14/2014', 'To': '5/10/2014', 'School': 'Atlas Airline World Wide', 'Address': '5600 NW 36th St', 'City': 'Miami', 'State': 'FL ', 'Program': 'Initial 747-400 Type Rating', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+
+{'type': 'U.S. Military Institution:', 'From': '2/6/2014', 'To': '7/25/2014', 'School': 'Air University', 'Address': '55 LeMay Plaza South', 'City': 'Maxwell AFB', 'State': 'AL ', 'Program': 'Squadron Officer School', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+Address is not valid
+
+{'type': 'U.S. Military Institution:', 'From': '3/14/2011', 'To': '5/21/2011', 'School': '58th Airlift Squadron', 'Address': '510 N. 6th Street', 'City': 'Altus', 'State': 'OK ', 'Program': 'C-17 Aircraft Commander Upgrade', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+
+{'type': 'U.S. Military Institution:', 'From': '12/15/2008', 'To': '5/12/2008', 'School': '58th Airlift Squadron', 'Address': '510 N. 6th Street', 'City': 'Altus', 'State': 'OK ', 'Program': 'C17 Pilot Initial Qualification', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'U.S. Military Institution:', 'From': '12/16/2006', 'To': '8/16/2007', 'School': '48th Flight Training Squadron', 'Address': '108 Simler Blvd', 'City': 'Columbus', 'State': 'MS ', 'Program': 'T-1/BE400, Undergraduate Pilot Training', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Address is not valid
+
+{'type': 'U.S. Military Institution:', 'From': '8/16/2006', 'To': '12/14/2006', 'School': '41st Flying Training Squadron', 'Address': '108 Simler Blvd', 'City': 'Columbus', 'State': 'MS ', 'Program': 'T-37 Undergraduate Pilot Training', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+Address is not valid
+
+{'type': 'U.S. Military Institution:', 'From': '5/11/2006', 'To': '6/23/2006', 'School': 'Academy of Military Science', 'Address': '2420 Hobbs Rd', 'City': 'Alcoa', 'State': 'TN ', 'Program': 'Officer Training Course', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+Address is not valid
+
+{'type': 'Professional Development:', 'From': '4/14/2004', 'To': '5/10/2004', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Bld', 'City': 'Deland', 'State': 'FL ', 'Program': 'Part 141: Certified Flight Instructor', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Address is not valid
+
+{'type': 'Professional Development:', 'From': '2/25/2004', 'To': '4/6/2004', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland', 'State': 'FL ', 'Program': 'Part 141: Multi-Engine Instructor', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'Professional Development:', 'From': '1/20/2004', 'To': '2/20/2004', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland', 'State': 'FL ', 'Program': 'Part 141: Certified Flight Instructor Instrument', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'Professional Development:', 'From': '12/11/2003', 'To': '1/6/2004', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland', 'State': 'FL ', 'Program': 'Part 141: Commercial Multi-Engine Rating', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'Professional Development:', 'From': '8/29/2003', 'To': '12/9/2003', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland', 'State': 'FL ', 'Program': 'Part 141: Commercial Single Engine Rating', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'Professional Development:', 'From': '6/24/2003', 'To': '8/25/2003', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland ', 'State': 'FL ', 'Program': 'Part 141: Instrument Rating', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'University - U.S. Accredited:', 'From': '5/1/2003', 'To': '5/1/2005', 'School': 'Utah Valley University', 'Address': '800 W University Parkway', 'City': 'Orem', 'State': 'UT ', 'Program': 'Aviation Science', 'Graduate': 'Yes', 'GPA': '3.67'}
+School spelling is not correct
+Program spelling is not correct
+
+{'type': 'Professional Development:', 'From': '3/10/2003', 'To': '6/24/2003', 'School': 'Regional Airline Academy', 'Address': '1200 Flightline Blvd', 'City': 'Deland ', 'State': 'FL ', 'Program': 'Part 141: Private Pilot Certificate', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+
+{'type': 'University - U.S. Accredited:', 'From': '1/1/2002', 'To': '4/1/2003', 'School': 'Belhaven University', 'Address': '1500 Peachtree St', 'City': 'Jackson', 'State': 'MS ', 'Program': 'Associates Degree', 'Graduate': 'Yes', 'GPA': '3.45'}
+Program spelling is not correct
+
+{'type': 'U.S. Military Institution:', 'From': '8/10/2000', 'To': '10/18/2000', 'School': '1st Battalion 28th Infantry Regiment', 'Address': 'Strom Thurman Blvd', 'City': 'Columbia', 'State': 'SC ', 'Program': 'Army Basic Training', 'Graduate': 'Yes', 'GPA': 'N/A'}
+School spelling is not correct
+Program spelling is not correct
+Address is not valid
+
+{'type': 'University - U.S. Accredited:', 'From': '8/1/1998', 'To': '5/15/2000', 'School': 'University of Central Florida', 'Address': '4000 Central Florida Blvd', 'City': 'Orlando', 'State': 'FL ', 'Program': 'Management/Business', 'Graduate': 'No', 'GPA': '3.4'}
+School spelling is not correct
+
+{'type': 'High School - U.S. :', 'From': '8/12/1995', 'To': '6/5/1998', 'School': 'Balboa High School', 'Address': 'Balboa St', 'City': 'Panama', 'State': '', 'Program': 'High School Diploma', 'Graduate': 'Yes', 'GPA': '3.2'}
+School spelling is not correct
+Program spelling is not correct
+Address is not valid
+
+Caution! Driver License will be expired within 90 days
+
+Employment Present
+
+ Address is not valid
+ Duties was cut off
+We recommend you to write more than 500 characters for  Duties
+Phone number format is not correct, Please input again.
+
+-------------------------------------------------------
+
+Unemployment / Furlough
+
+Please remove N/A Unemployment Details and insert summary of all periods unemployments
+-------------------------------------------------------
+
+Employment Misc
+
+-------------------------------------------------------
+
+Pilot Experience General
+
+-------------------------------------------------------
+
+Pilot Certificates Ratings
+
+No blanks allowed for entire sections
+Caution! Please check Airplane SEL information is correct. It should be Yes or No
+Caution! Please check Airplane MEL information is correct. It should be Yes or No
+Airplane SES information should be Yes or No
+Airplane MES information should be Yes or No
+Rotor Helicopter information should be Yes or No
+Rotor Gyroplane information should be Yes or No
+Airship information should be Yes or No
+Balloon information should be Yes or No
+Powered Lift information should be Yes or No
+Glider information should be Yes or No
+Turbojet Typed information should be Yes or No
+B-737 Typed information should be Yes or No
+Large Aircraft Typed information should be Yes or No
+Instrument Airplane information should be Yes or No
+Instrument Airplane information should be Yes or No
+Instrument Helicopter information should be Yes or No
+Instrument Helicopter information should be Yes or No
+Instrument Powered Lift information should be Yes or No
+-------------------------------------------------------
+
+Instructor Certificates Ratings
+
+-------------------------------------------------------
+
+FAA Written Tests
+
+ATPCurrent value should be Yes or No, please insert correct answer
+-------------------------------------------------------
+
+FAA Medicals
+
+Issued Date was expired
+-------------------------------------------------------
+
+Misc Certificates
+
+Dispatcher should be Yes or No
+Airframe & Powerplant should be Yes or No
+-------------------------------------------------------
+
+FAA Actions
+
+-------------------------------------------------------
+
+Aircraft Flown
+
+Caution for C-17! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for 747! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for PA-28! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for MD-11! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for Be-400! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for T-37! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for PA-34! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for PA28R! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for PA23-250! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+Caution for C152! Please make sure your last flown date is correct. The information you provided is indicating that you have not flown within the last 90days
+
+-------------------------------------------------------
+
+Addendum
+
+Have you ever been convicted of any felony, misdemeanor, infraction, offense, or other violation of any law - that you have not already listed in this application?
+Please make sure answer for this question is correct. This goes beyond the previous ten years period. This only applies to convictions
+
+Have you ever failed ANY checkrides or received an unsat on ANY phase/stage check, proficiency check, or line check- civilian or military?
+Please make sure answer for this question is accurate. This includes any Part 61/141 stage checks, UPT stage checks/check rides or failures to include Form 8 Checkrides
+
+-------------------------------------------------------
+
+GeneralReferences
+
+Phone number 6015597796 is not correct format. Please insert write format e.g. 601-209-5505
+Phone number 6019547777 is not correct format. Please insert write format e.g. 601-209-5505
+Caution! You need at least one reference that has known you for at least 10 years
+-------------------------------------------------------
+
+Transportation Security Regulation Disclosure
+
+-------------------------------------------------------
+
