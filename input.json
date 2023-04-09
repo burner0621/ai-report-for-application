@@ -350,12 +350,14 @@
         ]
     },
     "Criminal Record": {
-        "LegalToWork": "Yes",
-        "AbleToRelocate": "Yes",
-        "ContactPresent": "Yes",
-        "ContactPrevious": "Yes",
-        "EverDischarged": "No",
-        "Details": "N/A "
+        "Driving while Impaired": "No",
+        "Under the Influence": "No",
+        "Driving While Intoxicated": "No",
+        "License Suspended": "No",
+        "License Revoked": "No",
+        "Additional Details": "N/A",
+        "Past 10years Criminal": "No",
+        "IfYes": "N/A"
     },
     "Employment Present": {
         "From": "2/3/2014",
@@ -368,12 +370,12 @@
         "State": "NY",
         "Zip": "10577-2543",
         "Position": "First Officer",
-        "Duties": "Duties:",
-        "AC Flown": "A/C Flown:",
-        "Hours per Month": "Hours per Month:",
-        "Supervisor": "Supervisor:",
-        "Phone": "Phone:",
-        "Reason for Leaving": "Reason for Leaving:"
+        "Duties": "Assist the PIC by inspecting maintenance logs\n                                            and ensuring aircraft airworthiness. Conduct aircraft external inspection,\n                                            review dispatch release, program the FMS and configure the aircraft for\n                                            flight. Manage the aircraft flight path, communicate with ATC, cabin crew,\n                                            and passengers, assist the PIC in decision making and threat and error\n                                            management. Debrief with the PIC, and assist him/her by performing the post\n                                            flight aircraft inspection and ensuring any maintenance issues are properly\n                                            reported.",
+        "AC Flown": "747-400",
+        "Hours per Month": "30",
+        "Supervisor": "Bob Meager",
+        "Phone": "916-701-7992",
+        "Reason for Leaving": "Accepted a position with XYZ Airlines"
     },
     "Employment History": [
         {
@@ -816,5 +818,13 @@
             "EmailAddress": "rutlandjeff@gmail.com"
         }
     ],
-    "Disclosure Answer": "No"
+    "Disclosure Answer": "No",
+    "Employment General": {
+        "LegalToWork": "Yes",
+        "AbleToRelocate": "Yes",
+        "ContactPresent": "Yes",
+        "ContactPrevious": "Yes",
+        "EverDischarged": "No",
+        "Details": "N/A "
+    }
 }

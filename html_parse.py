@@ -265,7 +265,7 @@ class EmploymentGeneral:
         with open('input.json', 'r') as f:
             orig_data = json.load(f)
         
-        orig_data['Criminal Record'] = EmploymentGeneral
+        orig_data['Employment General'] = EmploymentGeneral
         
         with open("input.json", "w+") as f:
             json.dump(orig_data, f)
@@ -335,25 +335,25 @@ class EmploymentHistory:
 class EmploymentPresent:
     def __init__(self, parserObj):
         self.parser = parserObj
-        tds = self.parser.select ("td")
+        tds = self.parser.select ("td.answerbox")
 
         self.employment_present = {
-            "From" : tds[1].text.strip(),
-            "To" : tds[3].text.strip(),
-            "Company" : tds[5].text.strip(),
-            "Part121" : tds[7].text.strip(),
-            "Part135" : tds[9].text.strip(),
-            "Address" : tds[11].text.strip(),
-            "City" : tds[13].text.strip(),
-            "State" : tds[15].text.strip(),
-            "Zip" : tds[17].text.strip(),
-            "Position" : tds[19].text.strip(),
-            "Duties" : tds[22].text.strip(),
-            "AC Flown" : re.sub("\s+", " ",tds[24].text).replace("\n"," ").strip(),
-            "Hours per Month" : tds[26].text.strip(),
-            "Supervisor" : tds[28].text.strip(),
-            "Phone" : tds[30].text.strip(),
-            "Reason for Leaving" : tds[32].text.strip(),
+            "From" : tds[0].text.strip(),
+            "To" : tds[1].text.strip(),
+            "Company" : tds[2].text.strip(),
+            "Part121" : tds[3].text.strip(),
+            "Part135" : tds[4].text.strip(),
+            "Address" : tds[5].text.strip(),
+            "City" : tds[6].text.strip(),
+            "State" : tds[7].text.strip(),
+            "Zip" : tds[8].text.strip(),
+            "Position" : tds[9].text.strip(),
+            "Duties" : tds[10].text.strip(),
+            "AC Flown" : re.sub("\s+", " ",tds[11].text).replace("\n"," ").strip(),
+            "Hours per Month" : tds[12].text.strip(),
+            "Supervisor" : tds[13].text.strip(),
+            "Phone" : tds[14].text.strip(),
+            "Reason for Leaving" : tds[15].text.strip(),
         }
 
         with open('input.json', 'r') as f:
